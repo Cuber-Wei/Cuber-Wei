@@ -26,6 +26,7 @@
   - Gaming
 
 ![L0v3ch4n's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cuber-Wei)
+[![L0v3ch4n's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cuber-Wei)](https://github.com/anuraghazra/github-readme-stats)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Cuber-Wei/my-snk/raw/output/github-snake-dark.svg" />
