@@ -9,6 +9,10 @@
   - Language:
      Python Java
      C/C++ CSS HTML JavaScript
+
+ <!-- waka-box start -->
+ <!-- waka-box end -->
+
 - A student
   - Undergraduate at Nanjing University of Aeronautics and Astronautics
 - 📫 How to reach me
@@ -20,6 +24,8 @@
   - Caligraphy
   - Coding
   - Gaming
+
+![L0v3ch4n's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cuber-Wei)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Cuber-Wei/my-snk/raw/output/github-snake-dark.svg" />
