@@ -26,7 +26,12 @@
 
 <!-- Waka Box -->
   <!-- waka-box start -->
-  <!-- waka-box end -->
+#### <a href="https://gist.github.com/4a7eb433b1567bd06dc5d33eaeb5cde9" target="_blank">📊 Weekly development breakdown</a>
+```text
+Python 🕓 2m ███████████████████████████████████100.0%
+```
+<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
+<!-- waka-box end -->
 
 - 📖 A student
   - Undergraduate at Nanjing University of Aeronautics and Astronautics
