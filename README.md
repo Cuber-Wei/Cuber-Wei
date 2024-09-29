@@ -1,33 +1,63 @@
 ## Hi there 👋, I'm L0v3ch4n. 
 
-- A ctfer
-  - ID: L0v3ch4n.
-  - working in: Crypto
-  - learning in: AI
-- A coder
-  - full-stack developer?
+- 🚩 A ctfer
+
+  ![ID](https://img.shields.io/badge/ID-L0v3ch4n-blue)
+  
+  ![Working_in](https://img.shields.io/badge/Working_in-Crypto-green)
+
+  ![working_in](https://img.shields.io/badge/working_in-AI-pink)
+ 
+- ⌨️ A coder
+  - full-stack developer&nbsp;&nbsp;~~(I whish I am.)~~
   - Language:
-     Python Java
-     C/C++ CSS HTML JavaScript
+ 
+    ![Python](https://img.shields.io/badge/Main-Python-blue?logo=Python)&nbsp;&nbsp;![Java](https://img.shields.io/badge/Main-Java-orange?logo=Java)
 
- <!-- waka-box start -->
- <!-- waka-box end -->
+    ![C/C++](https://img.shields.io/badge/Other-C%2FC%2B%2B-blue?logo=C)&nbsp;&nbsp;![HTML5](https://img.shields.io/badge/Other-HTML5-E34F26?logo=HTML5)&nbsp;&nbsp;![Static Badge](https://img.shields.io/badge/Other-CSS3-1572B6?logo=CSS3)&nbsp;&nbsp;![JavaScript](https://img.shields.io/badge/Other-JavaScript-yellow?logo=JavaScript)&nbsp;&nbsp;![TypeScript](https://img.shields.io/badge/Other-TypeScript-00599C?logo=TypeScript)
 
-- A student
+    ![Kotlin](https://img.shields.io/badge/Learning-Kotlin-purple?logo=Kotlin)&nbsp;&nbsp;![Static Badge](https://img.shields.io/badge/Learning-Go-00ADD8?logo=Go)
+    
+  - Framework:
+
+    ![VueJS](https://img.shields.io/badge/Vue.js-35495e.svg?logo=vue.js&logoColor=4FC08D)&nbsp;&nbsp;![React](https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=61DAFB)&nbsp;&nbsp;![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?logo=spring&logoColor=white)&nbsp;&nbsp;![Django](https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white)&nbsp;&nbsp;![Flask](https://img.shields.io/badge/Flask-000.svg?logo=flask&logoColor=white)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=L0v3ch4n&layout=compact" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cuber-Wei&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+- 📖 A student
   - Undergraduate at Nanjing University of Aeronautics and Astronautics
 - 📫 How to reach me
-  - [Blog](https://www.cnblogs.com/Lovechan)
-  - [Email](mailto:lovechan@nuaa.edu.cn)
-  - [bilibili](https://b23.tv/1Y5XwJk)
-- ⚡ Fun fact
-  - Cubing
-  - Caligraphy
+
+  [![Blog](https://img.shields.io/badge/Blog-black?logo=RSS)](https://www.cnblogs.com/Lovechan)
+  
+  [![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:lovechan@nuaa.edu.cn)
+  
+  [![Bilibli](https://img.shields.io/badge/Bilibili-FB7299?logo=Bilibili)](https://b23.tv/1Y5XwJk)
+- ⚡ Interest 
+   Cubing
+  - Calligraphy
   - Coding
   - Gaming
+ 
+<!-- GitHub stats -->
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Cuber-Wei&show_icons=true&theme=onedark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Cuber-Wei&show_icons=true&theme=shadow_blue"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Cuber-Wei&show_icons=true&theme=shadow_blue" />
+</picture>
 
-![L0v3ch4n's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cuber-Wei)
-[![L0v3ch4n's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cuber-Wei)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- GitHub snk -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Cuber-Wei/my-snk/raw/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Cuber-Wei/my-snk/raw/output/github-snake.svg" />
