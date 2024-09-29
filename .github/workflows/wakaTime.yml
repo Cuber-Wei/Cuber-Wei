@@ -24,6 +24,11 @@ jobs:
       GIST_TIMESTYLE: SHORT
 
     steps:
+      - uses: shimataro/ssh-key-action@v2
+        with:
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
+          name: id_rsa
+          known_hosts: ${{ secrets.KNOWN_HOSTS }}
       - name: Set up Go 1.x
         uses: actions/setup-go@v2
         with:
@@ -33,9 +38,6 @@ jobs:
         uses: actions/checkout@v2
       - uses: actions/setup-go@v2
       - name: Clone and run waka-box
-        with:
-          key: ${{ secrets.SSH_KEY }}
-          name: id_rsa
         run: |-
           git clone git@github.com:Cuber-Wei/waka-box-go.git
           cd waka-box-go && go build -o waka ./cmd/box/main.go
