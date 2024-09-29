@@ -65,7 +65,11 @@
 
 <!-- GitHub snk -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Cuber-Wei/my-snk/raw/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Cuber-Wei/my-snk/raw/output/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/Cuber-Wei/my-snk/raw/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cuber-Wei/Cuber-Wei/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cuber-Wei/Cuber-Wei/output/ocean.gif" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Cuber-Wei/Cuber-Wei/output/ocean.gif" />
 </picture>
+
+<!-- Waka Box -->
+ <!-- waka-box start -->
+ <!-- waka-box end -->
