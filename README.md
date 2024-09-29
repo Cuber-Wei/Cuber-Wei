@@ -1,6 +1,6 @@
-## Hi there 👋, I'm L0v3ch4n. 
+## Hi there 👋, I'm L0v3ch4n
 
-### Who I am?
+### Who I am
 
 - 🚩 A ctfer
 
@@ -24,12 +24,9 @@
 
     ![VueJS](https://img.shields.io/badge/Vue.js-35495e.svg?logo=vue.js&logoColor=4FC08D)&nbsp;&nbsp;![React](https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=61DAFB)&nbsp;&nbsp;![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?logo=spring&logoColor=white)&nbsp;&nbsp;![Django](https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white)&nbsp;&nbsp;![Flask](https://img.shields.io/badge/Flask-000.svg?logo=flask&logoColor=white)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=L0v3ch4n&layout=compact" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cuber-Wei&layout=compact&langs_count=8&card_width=320" />
-</a>
+<!-- Waka Box -->
+  <!-- waka-box start -->
+  <!-- waka-box end -->
 
 - 📖 A student
   - Undergraduate at Nanjing University of Aeronautics and Astronautics
@@ -50,6 +47,7 @@
 
 ### About My GitHub
 
+#### My GitHub Stats
 <!-- GitHub stats -->
 <picture>
   <source
@@ -60,16 +58,18 @@
     srcset="https://github-readme-stats.vercel.app/api?username=Cuber-Wei&show_icons=true&theme=shadow_blue"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=Cuber-Wei&show_icons=true&theme=shadow_blue" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Cuber-Wei&show_icons=true&theme=shadow_blue" />
+  </a>
 </picture>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cuber-Wei&layout=compact&langs_count=8&card_width=320" />
+</a>
 
+#### My GitHub Contributions
 <!-- GitHub snk -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cuber-Wei/Cuber-Wei/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cuber-Wei/Cuber-Wei/output/ocean.gif" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Cuber-Wei/Cuber-Wei/output/ocean.gif" />
 </picture>
-
-<!-- Waka Box -->
- <!-- waka-box start -->
- <!-- waka-box end -->
