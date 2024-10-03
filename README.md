@@ -4,11 +4,7 @@
 
 - 🚩 A ctfer
 
-  ![ID](https://img.shields.io/badge/ID-L0v3ch4n-blue)
-
-  ![Working_in](https://img.shields.io/badge/Working_in-Crypto-green)
-
-  ![Learning_in](https://img.shields.io/badge/Learning_in-AI-pink)
+  [ID](https://img.shields.io/badge/ID-L0v3ch4n-blue)&nbsp;&nbsp;![Working_in](https://img.shields.io/badge/Working_in-Crypto-green)&nbsp;&nbsp;![Learning_in](https://img.shields.io/badge/Learning_in-AI-pink)
 
 - ⌨️ A coder
   - full-stack developer&nbsp;&nbsp;~~(I whish I am.)~~
