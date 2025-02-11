@@ -10,11 +10,9 @@
   - full-stack developer&nbsp;&nbsp;~~(I whish I am.)~~
   - Language:
 
-    ![Python](https://img.shields.io/badge/Main-Python-blue?logo=Python)&nbsp;&nbsp;![Java](https://img.shields.io/badge/Main-Java-orange?logo=Java)
+    ![Python](https://img.shields.io/badge/Main-Python-blue?logo=Python)&nbsp;&nbsp;![Java](https://img.shields.io/badge/Main-Java-orange?logo=Java)&nbsp;&nbsp;![JavaScript](https://img.shields.io/badge/Main-JavaScript-yellow?logo=JavaScript)&nbsp;&nbsp;![TypeScript](https://img.shields.io/badge/Main-TypeScript-00599C?logo=TypeScript)
 
-    ![C/C++](https://img.shields.io/badge/Other-C%2FC%2B%2B-blue?logo=C)&nbsp;&nbsp;![HTML5](https://img.shields.io/badge/Other-HTML5-E34F26?logo=HTML5)&nbsp;&nbsp;![Static Badge](https://img.shields.io/badge/Other-CSS3-1572B6?logo=CSS3)&nbsp;&nbsp;![JavaScript](https://img.shields.io/badge/Other-JavaScript-yellow?logo=JavaScript)&nbsp;&nbsp;![TypeScript](https://img.shields.io/badge/Other-TypeScript-00599C?logo=TypeScript)
-
-    ![Kotlin](https://img.shields.io/badge/Learning-Kotlin-purple?logo=Kotlin)&nbsp;&nbsp;![Static Badge](https://img.shields.io/badge/Learning-Go-00ADD8?logo=Go)
+    ![C/C++](https://img.shields.io/badge/Other-C%2FC%2B%2B-blue?logo=C)&nbsp;&nbsp;![HTML5](https://img.shields.io/badge/Other-HTML5-E34F26?logo=HTML5)&nbsp;&nbsp;![CSS3](https://img.shields.io/badge/Other-CSS3-1572B6?logo=CSS3)
 
   - Framework:
 
@@ -38,7 +36,7 @@ Python         🕓 18m   █▌░░░░░░░░░░░░░░░░
 
 - 📫 How to reach me
 
-  [![Blog](https://img.shields.io/badge/Blog-black?logo=RSS)](https://www.cnblogs.com/Lovechan)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:lovechan@nuaa.edu.cn)&nbsp;&nbsp;[![Bilibli](https://img.shields.io/badge/Bilibili-FB7299?logo=Bilibili)](https://b23.tv/1Y5XwJk)
+  [![Blog](https://img.shields.io/badge/Blog-black?logo=RSS)](https://blog.l0v3ch4n.top)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:lovechan@nuaa.edu.cn)&nbsp;&nbsp;[![Bilibli](https://img.shields.io/badge/Bilibili-FB7299?logo=Bilibili)](https://b23.tv/1Y5XwJk)
 
 - ⚡ Interest
   - Cubing
