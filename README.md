@@ -22,11 +22,11 @@
   <!-- waka-box start -->
 #### <a href="https://gist.github.com/4a7eb433b1567bd06dc5d33eaeb5cde9" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Vue.js                           🕓 3h12m ██▌░░░ 42.2%
-C#                               🕓 1h47m █▍░░░░ 23.5%
-Markdown                         🕓 1h5m  ▊░░░░░ 14.3%
-XML                              🕓 26m   ▎░░░░░  5.8%
-XAML                             🕓 18m   ▏░░░░░  4.0%
+C#                               🕓 1h47m ██▏░░░ 37.3%
+Markdown                         🕓 1h18m █▋░░░░ 27.3%
+XML                              🕓 26m   ▌░░░░░  9.1%
+JSON                             🕓 21m   ▍░░░░░  7.3%
+XAML                             🕓 18m   ▍░░░░░  6.3%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
