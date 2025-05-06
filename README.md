@@ -34,12 +34,6 @@ Still Gathering Statistics...
 
   [![Blog](https://img.shields.io/badge/Blog-black?logo=RSS)](https://blog.l0v3ch4n.top)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:lovechan@nuaa.edu.cn)&nbsp;&nbsp;[![Bilibli](https://img.shields.io/badge/Bilibili-FB7299?logo=Bilibili)](https://b23.tv/1Y5XwJk)
 
-- ⚡ Interest
-  - Cubing
-  - Calligraphy
-  - Coding
-  - Gaming
-
 ### About My GitHub
 
 #### My GitHub Stats
