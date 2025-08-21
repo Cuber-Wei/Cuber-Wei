@@ -2,21 +2,66 @@
 
 ### Who I am
 
+<img align="right" height="180rem" src="https://avatars.githubusercontent.com/u/61489983" style="border-radius: 20px; box-shadow: 0 4px 10px #2222; margin-left: 20px;" />
+
 - 🚩 A ctfer
 
-  ![ID](https://img.shields.io/badge/ID-L0v3ch4n-blue)&nbsp;&nbsp;![Working_in](https://img.shields.io/badge/Working_in-Crypto-green)&nbsp;&nbsp;![Learning_in](https://img.shields.io/badge/Learning_in-AI-pink)
+  <div align="center">
+    
+   ![ID](https://img.shields.io/badge/ID-L0v3ch4n-blue?style=for-the-badge)
+   ![Working_in](https://img.shields.io/badge/Working_in-Crypto-green?style=for-the-badge)
+   ![Learning_in](https://img.shields.io/badge/Learning_in-AI-pink?style=for-the-badge)
+
+  </div>
 
 - ⌨️ A coder
   - full-stack developer&nbsp;&nbsp;~~(I whish I am.)~~
-  - Language:
+  - Tech Stack:
+    - Language:
+    
+     <div align="center">
+    
+      ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=white)
+      ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=Java&logoColor=white)
+      ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-blue?style=for-the-badge&logo=C&logoColor=white)
+      ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white)
+      ![TypeScript](https://img.shields.io/badge/TypeScript-00599C?style=for-the-badge&logo=TypeScript&logoColor=white)
+      ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
+      ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
+    
+     </div>
+     
+    - Framework:
+    
+     <div align="center">
+      
+      ![VueJS](https://img.shields.io/badge/Vue.js-35495e.svg?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+      ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+      ![Django](https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+      ![Flask](https://img.shields.io/badge/Flask-000.svg?style=for-the-badge&logo=flask&logoColor=white)
+      
+     </div>
+     
+    - Tools:
+    
+     <div align="center">
+      
+      ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+      ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+      ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+      ![LaTeX](https://img.shields.io/badge/LaTeX-gray?style=for-the-badge&logo=LaTeX&logoColor=white)
+      
+     </div>
 
-    ![Python](https://img.shields.io/badge/Main-Python-blue?logo=Python)&nbsp;&nbsp;![Java](https://img.shields.io/badge/Main-Java-orange?logo=Java)&nbsp;&nbsp;![JavaScript](https://img.shields.io/badge/Main-JavaScript-yellow?logo=JavaScript)&nbsp;&nbsp;![TypeScript](https://img.shields.io/badge/Main-TypeScript-00599C?logo=TypeScript)
+  - IDE I use:
 
-    ![C/C++](https://img.shields.io/badge/Other-C%2FC%2B%2B-blue?logo=C)&nbsp;&nbsp;![HTML5](https://img.shields.io/badge/Other-HTML5-E34F26?logo=HTML5)&nbsp;&nbsp;![CSS3](https://img.shields.io/badge/Other-CSS3-1572B6?logo=CSS3)
-
-  - Framework:
-
-    ![VueJS](https://img.shields.io/badge/Vue.js-35495e.svg?logo=vue.js&logoColor=4FC08D)&nbsp;&nbsp;![React](https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=61DAFB)&nbsp;&nbsp;![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?logo=spring&logoColor=white)&nbsp;&nbsp;![Django](https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white)&nbsp;&nbsp;![Flask](https://img.shields.io/badge/Flask-000.svg?logo=flask&logoColor=white)
+   <div align="center">
+     
+    ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-2C2255?style=for-the-badge&logo=intellijidea&logoColor=white)
+    ![Cursor](https://img.shields.io/badge/Cursor-181717?style=for-the-badge&logo=cursor&logoColor=white)
+  
+   </div>
 
 <!-- Waka Box -->
   <!-- waka-box start -->
@@ -36,7 +81,13 @@ JavaScript 🕓 14m   ▌░░░░░░░░░░░░░░░░░░�
 
 - 📫 How to reach me
 
-  [![Blog](https://img.shields.io/badge/Blog-black?logo=RSS)](https://blog.l0v3ch4n.top)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:lovechan@nuaa.edu.cn)&nbsp;&nbsp;[![Bilibli](https://img.shields.io/badge/Bilibili-FB7299?logo=Bilibili)](https://b23.tv/1Y5XwJk)
+  <div align="center">
+    
+   [![Blog](https://img.shields.io/badge/Blog-black?style=for-the-badge&logo=RSS)](https://blog.l0v3ch4n.top)
+   [![Email](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lovechan@nuaa.edu.cn)
+   [![Bilibli](https://img.shields.io/badge/Bilibili-FB7299?style=for-the-badge&logo=Bilibili)](https://b23.tv/1Y5XwJk)
+  
+  </div>
 
 ### About My GitHub
 
@@ -64,3 +115,5 @@ JavaScript 🕓 14m   ▌░░░░░░░░░░░░░░░░░░�
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cuber-Wei/Cuber-Wei/output/ocean.gif" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Cuber-Wei/Cuber-Wei/output/ocean.gif" />
 </picture>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cuber-wei)](https://github.com/ashutosh00710/github-readme-activity-graph)
