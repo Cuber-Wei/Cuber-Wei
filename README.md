@@ -49,7 +49,7 @@
       ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
       ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
       ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-      ![LaTeX](https://img.shields.io/badge/LaTeX-gray?style=for-the-badge&logo=LaTeX&logoColor=white)
+      ![TeX](https://img.shields.io/badge/LaTeX-092E20?style=for-the-badge&logo=LaTeX&logoColor=white)
       
      </div>
 
@@ -116,4 +116,4 @@ TeX        🕓 47m   █▊░░░░░░░░░░░░░░░░░�
   <img alt="github-snake" src="https://raw.githubusercontent.com/Cuber-Wei/Cuber-Wei/output/ocean.gif" />
 </picture>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cuber-wei)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cuber-wei&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
