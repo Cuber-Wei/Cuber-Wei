@@ -67,11 +67,7 @@
   <!-- waka-box start -->
 #### <a href="https://gist.github.com/4a7eb433b1567bd06dc5d33eaeb5cde9" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Python                   🕓 11h34m ███▍░░░░░░░░░ 26.4%
-Other                    🕓 9h14m  ██▋░░░░░░░░░░ 21.0%
-Vue.js                   🕓 6h53m  ██░░░░░░░░░░░ 15.7%
-Markdown                 🕓 3h29m  █░░░░░░░░░░░░  8.0%
-CSS                      🕓 3h     ▉░░░░░░░░░░░░  6.8%
+Still Gathering Statistics...
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
