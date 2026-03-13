@@ -67,7 +67,11 @@
   <!-- waka-box start -->
 #### <a href="https://gist.github.com/4a7eb433b1567bd06dc5d33eaeb5cde9" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Still Gathering Statistics...
+Markdown     🕓 6h2m ████████████████████▌░░░░░░ 76.3%
+TeX          🕓 54m  ███░░░░░░░░░░░░░░░░░░░░░░░░ 11.5%
+Python       🕓 22m  █▎░░░░░░░░░░░░░░░░░░░░░░░░░  4.8%
+TypeScript   🕓 16m  ▉░░░░░░░░░░░░░░░░░░░░░░░░░░  3.4%
+YAML         🕓 12m  ▋░░░░░░░░░░░░░░░░░░░░░░░░░░  2.5%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
