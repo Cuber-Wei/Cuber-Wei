@@ -67,11 +67,7 @@
   <!-- waka-box start -->
 #### <a href="https://gist.github.com/4a7eb433b1567bd06dc5d33eaeb5cde9" target="_blank">📊 Weekly development breakdown</a>
 ```text
-C++          🕓 1h3m ██████████████▋░░░░░░░░░░░░ 54.5%
-TeX          🕓 45m  ██████████▍░░░░░░░░░░░░░░░░ 38.8%
-Markdown     🕓 6m   █▌░░░░░░░░░░░░░░░░░░░░░░░░░  5.9%
-OpenEdge ABL 🕓 0s   ▏░░░░░░░░░░░░░░░░░░░░░░░░░░  0.6%
-JSON         🕓 0s   ░░░░░░░░░░░░░░░░░░░░░░░░░░░  0.2%
+Still Gathering Statistics...
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
