@@ -67,7 +67,11 @@
   <!-- waka-box start -->
 #### <a href="https://gist.github.com/4a7eb433b1567bd06dc5d33eaeb5cde9" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Still Gathering Statistics...
+YAML       🕓 1h7m █████▉░░░░░░░░░░░░░░░░░░░░░░░ 20.6%
+Bash       🕓 1h3m █████▋░░░░░░░░░░░░░░░░░░░░░░░ 19.6%
+Python     🕓 55m  ████▉░░░░░░░░░░░░░░░░░░░░░░░░ 16.9%
+JavaScript 🕓 38m  ███▍░░░░░░░░░░░░░░░░░░░░░░░░░ 11.9%
+Docker     🕓 31m  ██▊░░░░░░░░░░░░░░░░░░░░░░░░░░  9.7%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
