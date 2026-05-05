@@ -67,11 +67,11 @@
   <!-- waka-box start -->
 #### <a href="https://gist.github.com/4a7eb433b1567bd06dc5d33eaeb5cde9" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Python       🕓 4h15m ████████░░░░░░░░░░░░░░░░░░ 31.2%
-TeX          🕓 3h4m  █████▊░░░░░░░░░░░░░░░░░░░░ 22.5%
-Other        🕓 1h42m ███▏░░░░░░░░░░░░░░░░░░░░░░ 12.4%
-Text         🕓 1h21m ██▌░░░░░░░░░░░░░░░░░░░░░░░  9.9%
-BibTeX       🕓 1h19m ██▌░░░░░░░░░░░░░░░░░░░░░░░  9.7%
+TeX          🕓 4h51m ████████░░░░░░░░░░░░░░░░░░ 30.9%
+Python       🕓 4h15m ███████░░░░░░░░░░░░░░░░░░░ 27.2%
+Other        🕓 1h42m ██▊░░░░░░░░░░░░░░░░░░░░░░░ 10.9%
+BibTeX       🕓 1h23m ██▎░░░░░░░░░░░░░░░░░░░░░░░  8.9%
+Text         🕓 1h21m ██▏░░░░░░░░░░░░░░░░░░░░░░░  8.6%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
