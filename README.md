@@ -67,11 +67,7 @@
   <!-- waka-box start -->
 #### <a href="https://gist.github.com/4a7eb433b1567bd06dc5d33eaeb5cde9" target="_blank">📊 Weekly development breakdown</a>
 ```text
-TeX         🕓 10h40m █████████▍░░░░░░░░░░░░░░░░ 36.3%
-Markdown    🕓 7h37m  ██████▋░░░░░░░░░░░░░░░░░░░ 25.9%
-Go          🕓 2h56m  ██▌░░░░░░░░░░░░░░░░░░░░░░░ 10.0%
-Text        🕓 2h16m  ██░░░░░░░░░░░░░░░░░░░░░░░░  7.7%
-Python      🕓 1h35m  █▍░░░░░░░░░░░░░░░░░░░░░░░░  5.4%
+Still Gathering Statistics...
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
