@@ -67,7 +67,8 @@
   <!-- waka-box start -->
 #### <a href="https://gist.github.com/4a7eb433b1567bd06dc5d33eaeb5cde9" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Still Gathering Statistics...
+TeX          🕓 47m ██████████████████████████░░ 92.9%
+OpenEdge ABL 🕓 3m  █▉░░░░░░░░░░░░░░░░░░░░░░░░░░  7.1%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
