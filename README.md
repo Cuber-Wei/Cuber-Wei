@@ -67,8 +67,11 @@
   <!-- waka-box start -->
 #### <a href="https://gist.github.com/4a7eb433b1567bd06dc5d33eaeb5cde9" target="_blank">📊 Weekly development breakdown</a>
 ```text
-TeX          🕓 47m ██████████████████████████░░ 92.9%
-OpenEdge ABL 🕓 3m  █▉░░░░░░░░░░░░░░░░░░░░░░░░░░  7.1%
+TeX          🕓 2h7m █████████████████▌░░░░░░░░░ 65.2%
+BibTeX       🕓 37m  █████▏░░░░░░░░░░░░░░░░░░░░░ 19.1%
+Text         🕓 23m  ███▏░░░░░░░░░░░░░░░░░░░░░░░ 11.9%
+OpenEdge ABL 🕓 3m   ▌░░░░░░░░░░░░░░░░░░░░░░░░░░  1.9%
+Markdown     🕓 3m   ▍░░░░░░░░░░░░░░░░░░░░░░░░░░  1.6%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
