@@ -55,7 +55,7 @@ CSS        🕓 2m    ▎░░░░░░░░░░░░░░░░░░�
     
    [![Blog](https://img.shields.io/badge/Blog-black?style=for-the-badge&logo=RSS)](https://blog.l0v3ch4n.top)
    [![Email](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lovechan@nuaa.edu.cn)
-   [![Bilibli](https://img.shields.io/badge/Bilibili-FB7299?style=for-the-badge&logo=Bilibili)](https://b23.tv/1Y5XwJk)
+   [![Bilibli](https://img.shields.io/badge/Bilibili-FB7299?style=for-the-badge&logo=Bilibili)](https://space.bilibili.com/399538561)
 
   </div>
 
