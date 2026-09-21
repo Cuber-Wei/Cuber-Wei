@@ -36,8 +36,8 @@
   <!-- waka-box start -->
 #### <a href="https://gist.github.com/4a7eb433b1567bd06dc5d33eaeb5cde9" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Markdown   🕓 6h26m █████████████████████████▌░░ 91.3%
-Other      🕓 10m   ▋░░░░░░░░░░░░░░░░░░░░░░░░░░░  2.5%
+Markdown   🕓 6h26m █████████████████████████▏░░ 90.1%
+Other      🕓 16m   █░░░░░░░░░░░░░░░░░░░░░░░░░░░  3.8%
 YAML       🕓 9m    ▋░░░░░░░░░░░░░░░░░░░░░░░░░░░  2.3%
 Python     🕓 8m    ▌░░░░░░░░░░░░░░░░░░░░░░░░░░░  2.0%
 CSS        🕓 3m    ▏░░░░░░░░░░░░░░░░░░░░░░░░░░░  0.9%
