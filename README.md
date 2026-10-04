@@ -36,7 +36,11 @@
   <!-- waka-box start -->
 #### <a href="https://gist.github.com/4a7eb433b1567bd06dc5d33eaeb5cde9" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Still Gathering Statistics...
+Markdown   🕓 2h5m  █████████▊░░░░░░░░░░░░░░░░░░ 35.1%
+TeX        🕓 1h51m ████████▋░░░░░░░░░░░░░░░░░░░ 31.2%
+Other      🕓 1h12m █████▋░░░░░░░░░░░░░░░░░░░░░░ 20.3%
+JavaScript 🕓 27m   ██░░░░░░░░░░░░░░░░░░░░░░░░░░  7.6%
+Python     🕓 19m   █▌░░░░░░░░░░░░░░░░░░░░░░░░░░  5.6%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
