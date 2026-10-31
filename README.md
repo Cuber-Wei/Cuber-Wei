@@ -36,7 +36,8 @@
   <!-- waka-box start -->
 #### <a href="https://gist.github.com/4a7eb433b1567bd06dc5d33eaeb5cde9" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Python 🕓 59m ██████████████████████████████████100.0%
+Python   🕓 2h11m ████████████████████████████▋░ 95.6%
+Markdown 🕓 6m    █▎░░░░░░░░░░░░░░░░░░░░░░░░░░░░  4.4%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
